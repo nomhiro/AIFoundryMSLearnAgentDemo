@@ -7,6 +7,10 @@ BingCustomSearchは、MSLearnのページを検索するように設定されて
 
 ### MS Learn Agent単体
 ```
+AIFoundryAgentServiceで、GPT-5は使えますか？
+```
+
+```
 AI Foundry Agent ServiceのTool連携先機能をリストアップしてください。  
 その機能に対して、AI Foundry Portal画面上で設定できる機能をリストアップして下さい。  
 対して、コーディングでしか設定できない機能もリストアップしてください。
